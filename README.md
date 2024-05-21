@@ -1,4 +1,4 @@
-Here is a basic outline of how you might structure your IsiZulu language model project in Python:
+
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
@@ -9,11 +9,11 @@ from sklearn.metrics import accuracy_score, classification_report
 df = pd.read_csv('isizulu_data.csv')
 
 # Preprocess the text data
-df['text'] = df['text'].apply(tokenize)
-df['text'] = df['text'].apply(remove_stop_words)
+df['ubaba'] = df['umama'].apply(tokenize)
+df['abazali'] = df['umdeni'].apply(remove_stop_words)
 
 # Split the data into training and testing sets
-X_train, X_test, y_train, y_test = train_test_split(df['text'], df['label'], test_size=0.2, random_state=42)
+X_train, X_test, y_train, y_test = train_test_split(df['ugogo'], df['label'], test_size=0.2, random_state=42)
 
 # Train the model
 model = MultinomialNB()
