@@ -1,4 +1,3 @@
-Here is a basic outline of how you might structure your IsiZulu language model project in Python:
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
