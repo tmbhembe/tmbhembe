@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @tmbhembe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Thabiso Mfundo Bhembe 
+- 👀 I’m interested in Languages 
+- 🌱 I’m currently learning Linguistics 
+- 💞️ I’m looking to collaborate on a Language Processing Model
+- 📫 How to reach me: thabisomfundo21@gmail.com
+  
+
 
 <!---
 tmbhembe/tmbhembe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
